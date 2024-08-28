@@ -1,0 +1,277 @@
+{
+   "HealthTips":[
+      {
+         "LifeStage":"Infants & Children",
+         "DietTips":[
+            "Balanced diet with fruits, vegetables, proteins, and whole grains",
+            "Avoid excessive sugar and processed foods"
+         ],
+         "PhysicalActivityTips":[
+            "Encourage active play, sports, and outdoor activities",
+            "Limit screen time"
+         ],
+         "HealthManagementTips":[
+            "Keep up with recommended vaccines",
+            "Regular pediatric check-ups",
+            "Ensure adequate sleep"
+         ]
+      },
+      {
+         "LifeStage":"Teenagers",
+         "DietTips":[
+            "Diet rich in fruits, vegetables, lean proteins, and whole grains",
+            "Watch portion sizes",
+            "Limit junk food"
+         ],
+         "PhysicalActivityTips":[
+            "Aim for at least 60 minutes of physical activity daily",
+            "Include team sports and outdoor activities"
+         ],
+         "HealthManagementTips":[
+            "Manage stress through relaxation techniques and hobbies",
+            "Open communication about mental health"
+         ]
+      },
+      {
+         "LifeStage":"Young Adults",
+         "DietTips":[
+            "Focus on a balanced diet",
+            "Monitor portion sizes",
+            "Limit alcohol and caffeine intake",
+            "Include nutrient-rich foods"
+         ],
+         "PhysicalActivityTips":[
+            "Regular physical activity",
+            "Balance aerobic exercises with strength training",
+            "Consider joining a gym"
+         ],
+         "HealthManagementTips":[
+            "Regular check-ups, vaccinations, and screenings",
+            "Manage stress through work-life balance and self-care"
+         ]
+      },
+      {
+         "LifeStage":"Adults (30-50 years)",
+         "DietTips":[
+            "Maintain a balanced diet to manage weight",
+            "Include plenty of fruits, vegetables, and lean proteins",
+            "Monitor caloric intake"
+         ],
+         "PhysicalActivityTips":[
+            "Incorporate both aerobic and strength-training exercises",
+            "Include flexibility and balance exercises"
+         ],
+         "HealthManagementTips":[
+            "Regular health screenings for chronic conditions",
+            "Manage work stress",
+            "Practice preventive health measures"
+         ]
+      },
+      {
+         "LifeStage":"Older Adults (50+ years)",
+         "DietTips":[
+            "Heart-healthy diet low in sodium, saturated fats, and processed foods",
+            "Include foods high in fiber and antioxidants"
+         ],
+         "PhysicalActivityTips":[
+            "Engage in low-impact exercises like walking, swimming, or yoga",
+            "Focus on exercises that improve balance and flexibility"
+         ],
+         "HealthManagementTips":[
+            "Include calcium and vitamin D in your diet",
+            "Regular screenings for bone density",
+            "Stay mentally active through puzzles or learning"
+         ]
+      },
+      {
+         "LifeStage":"People with Diabetes",
+         "DietTips":[
+            "Low-carb, high-fiber diet",
+            "Focus on whole grains, vegetables, and lean proteins",
+            "Limit sugary foods and drinks"
+         ],
+         "PhysicalActivityTips":[
+            "Regular physical activity tailored to individual capability",
+            "Combine aerobic exercise with strength training"
+         ],
+         "HealthManagementTips":[
+            "Regular blood glucose monitoring",
+            "Adherence to prescribed medications",
+            "Education on managing blood sugar levels"
+         ]
+      },
+      {
+         "LifeStage":"People with Hypertension",
+         "DietTips":[
+            "Low-sodium diet",
+            "Focus on whole grains, fruits, vegetables, and lean proteins",
+            "Limit processed and high-fat foods"
+         ],
+         "PhysicalActivityTips":[
+            "Engage in regular aerobic exercise like walking, cycling, or swimming",
+            "Incorporate relaxation exercises to reduce stress"
+         ],
+         "HealthManagementTips":[
+            "Regular blood pressure monitoring",
+            "Adhere to prescribed antihypertensive medications",
+            "Manage stress levels"
+         ]
+      },
+      {
+         "LifeStage":"People with Osteoarthritis",
+         "DietTips":[
+            "Diet that supports joint health",
+            "Consider anti-inflammatory foods like omega-3 fatty acids",
+            "Maintain a healthy weight"
+         ],
+         "PhysicalActivityTips":[
+            "Use supportive devices and practice joint-friendly exercises",
+            "Low-impact exercises such as swimming or cycling"
+         ],
+         "HealthManagementTips":[
+            "Manage pain with prescribed medications and physical therapy",
+            "Regular physical therapy sessions to improve joint function and mobility"
+         ]
+      }
+   ],
+   "Vitamins":[
+      {
+         "Vitamin":"Vitamin A",
+         "Deficiency":"Night blindness, dry skin, weakened immune system",
+         "FoodsRichInVitamin":[
+            "Carrots",
+            "Sweet potatoes",
+            "Spinach",
+            "Kale",
+            "Liver"
+         ]
+      },
+      {
+         "Vitamin":"Vitamin B1 (Thiamine)",
+         "Deficiency":"Beriberi, Wernicke-Korsakoff syndrome",
+         "FoodsRichInVitamin":[
+            "Whole grains",
+            "Pork",
+            "Legumes",
+            "Nuts",
+            "Seeds"
+         ]
+      },
+      {
+         "Vitamin":"Vitamin B2 (Riboflavin)",
+         "Deficiency":"Cracks in the corners of the mouth, sore throat, inflammation of the lining of the mouth and tongue",
+         "FoodsRichInVitamin":[
+            "Dairy products",
+            "Eggs",
+            "Lean meats",
+            "Green leafy vegetables"
+         ]
+      },
+      {
+         "Vitamin":"Vitamin B3 (Niacin)",
+         "Deficiency":"Pellagra (symptoms include dermatitis, diarrhea, and dementia)",
+         "FoodsRichInVitamin":[
+            "Poultry",
+            "Beef",
+            "Fish",
+            "Whole grains",
+            "Legumes"
+         ]
+      },
+      {
+         "Vitamin":"Vitamin B5 (Pantothenic Acid)",
+         "Deficiency":"Rare, but can include fatigue, depression, and digestive problems",
+         "FoodsRichInVitamin":[
+            "Chicken",
+            "Beef",
+            "Potatoes",
+            "Oats",
+            "Tomatoes"
+         ]
+      },
+      {
+         "Vitamin":"Vitamin B6 (Pyridoxine)",
+         "Deficiency":"Anemia, depression, confusion, weakened immune function",
+         "FoodsRichInVitamin":[
+            "Poultry",
+            "Fish",
+            "Potatoes",
+            "Bananas",
+            "Chickpeas"
+         ]
+      },
+      {
+         "Vitamin":"Vitamin B7 (Biotin)",
+         "Deficiency":"Hair loss, skin rashes, brittle nails",
+         "FoodsRichInVitamin":[
+            "Eggs",
+            "Nuts",
+            "Seeds",
+            "Fish",
+            "Sweet potatoes"
+         ]
+      },
+      {
+         "Vitamin":"Vitamin B9 (Folate)",
+         "Deficiency":"Anemia, birth defects, poor growth",
+         "FoodsRichInVitamin":[
+            "Leafy greens",
+            "Legumes",
+            "Citrus fruits",
+            "Fortified cereals"
+         ]
+      },
+      {
+         "Vitamin":"Vitamin B12 (Cobalamin)",
+         "Deficiency":"Anemia, fatigue, nerve damage, memory problems",
+         "FoodsRichInVitamin":[
+            "Meat",
+            "Fish",
+            "Dairy products",
+            "Fortified plant-based milks"
+         ]
+      },
+      {
+         "Vitamin":"Vitamin C",
+         "Deficiency":"Scurvy (symptoms include bleeding gums, bruising, and poor wound healing)",
+         "FoodsRichInVitamin":[
+            "Citrus fruits",
+            "Strawberries",
+            "Bell peppers",
+            "Broccoli",
+            "Tomatoes"
+         ]
+      },
+      {
+         "Vitamin":"Vitamin D",
+         "Deficiency":"Rickets (in children), osteomalacia (in adults), bone pain",
+         "FoodsRichInVitamin":[
+            "Sunlight exposure",
+            "Fatty fish",
+            "Fortified dairy products",
+            "Egg yolks"
+         ]
+      },
+      {
+         "Vitamin":"Vitamin E",
+         "Deficiency":"Muscle weakness, vision problems, immune system issues",
+         "FoodsRichInVitamin":[
+            "Nuts",
+            "Seeds",
+            "Spinach",
+            "Broccoli",
+            "Vegetable oils"
+         ]
+      },
+      {
+         "Vitamin":"Vitamin K",
+         "Deficiency":"Excessive bleeding, easy bruising, weakened bone health",
+         "FoodsRichInVitamin":[
+            "Leafy green vegetables",
+            "Broccoli",
+            "Brussels sprouts",
+            "Fish"
+         ]
+      }
+   ]
+}

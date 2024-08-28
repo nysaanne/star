@@ -1,0 +1,69 @@
+{
+   "Physical Examination":{
+      "Definition":"A routine test performed by a healthcare provider to check for general signs of illness. This involves checking vital signs like temperature, blood pressure, and heart rate, and examining the body visually and manually."
+   },
+   "Symptom Review":{
+      "Definition":"An assessment where a healthcare provider discusses and evaluates the symptoms a patient is experiencing to identify potential illnesses."
+   },
+   "Rapid Flu Test":{
+      "Definition":"A test that detects influenza viral antigens in respiratory specimens. It provides results within 15-30 minutes."
+   },
+   "Blood Sugar Tests":{
+      "Definition":"Tests that measure the amount of glucose in the blood. Common tests include fasting blood sugar (FBS) and random blood sugar (RBS)."
+   },
+   "HbA1c Test":{
+      "Definition":"A blood test that measures the average level of blood sugar (glucose) over the past 2-3 months. It is used to diagnose and monitor diabetes."
+   },
+   "Blood Pressure Measurement":{
+      "Definition":"A test that measures the force of blood against the walls of the arteries. It is typically measured using a sphygmomanometer."
+   },
+   "Spirometry":{
+      "Definition":"A common pulmonary function test that measures how much air you inhale, how much you exhale, and how quickly you exhale."
+   },
+   "Peak Flow Test":{
+      "Definition":"A simple test that measures how fast you can blow air out of your lungs. It is used to monitor asthma."
+   },
+   "Chest X-ray":{
+      "Definition":"An imaging test that uses X-rays to take pictures of the chest, including the lungs, heart, and blood vessels."
+   },
+   "Sputum Test":{
+      "Definition":"A test that examines a sample of mucus from the lungs to detect the presence of pathogens, such as bacteria or fungi."
+   },
+   "Stool Test":{
+      "Definition":"A test that examines a sample of feces to check for the presence of pathogens, such as bacteria, viruses, or parasites."
+   },
+   "Tuberculin Skin Test":{
+      "Definition":"A test where a small amount of tuberculin is injected under the skin. The injection site is checked after 48-72 hours for a reaction indicating TB infection."
+   },
+   "Allergy Tests":{
+      "Skin Test Definition":"A test where small amounts of potential allergens are introduced to the skin to see if there is an allergic reaction.",
+      "Blood Test Definition":"A test that measures the presence of specific antibodies in the blood that indicate an allergic reaction."
+   },
+   "Rapid Strep Test":{
+      "Definition":"A test that detects the presence of Group A Streptococcus bacteria in the throat, providing results within minutes."
+   },
+   "Throat Culture":{
+      "Definition":"A test where a swab is used to take a sample from the back of the throat, which is then cultured to detect bacterial infections."
+   },
+   "Clinical Evaluation":{
+      "Definition":"A comprehensive assessment by a healthcare provider that includes a patient’s medical history, physical examination, and any necessary tests to diagnose and manage medical conditions."
+   },
+   "Patient History":{
+      "Definition":"A detailed record of a patient's past medical experiences, including illnesses, treatments, surgeries, and lifestyle factors, used to help diagnose current conditions."
+   },
+   "Urinalysis":{
+      "Definition":"A test that examines the content of urine to detect and manage a wide range of disorders, such as urinary tract infections (UTIs), kidney disease, and diabetes."
+   },
+   "Urine Culture":{
+      "Definition":"A test that identifies bacteria or fungi in the urine to diagnose urinary tract infections and guide treatment."
+   },
+   "Complete Blood Count (CBC)":{
+      "Definition":"A blood test that measures the levels of different blood cells, including red blood cells, white blood cells, and platelets, to help diagnose a variety of conditions, such as anemia and infections."
+   },
+   "PCR Test":{
+      "Definition":"A test that amplifies and detects the genetic material of a pathogen, such as the SARS-CoV-2 virus, to diagnose infections with high accuracy."
+   },
+   "Rapid Antigen Test":{
+      "Definition":"A test that detects specific proteins from a virus, providing results quickly to diagnose infections like COVID-19."
+   }
+}

@@ -1,0 +1,204 @@
+{
+   "Diseases":[
+      {
+         "Disease":"Common Cold",
+         "Symptoms":"Sneezing, runny nose, sore throat, cough, fatigue",
+         "How to Test":"Physical examination, symptom review",
+         "Treatment":"Rest, fluids, over-the-counter medications",
+         "Cause":"Viral infection (commonly rhinoviruses)",
+         "Prevention":"Frequent handwashing, avoiding close contact with sick individuals, using tissues when sneezing or coughing"
+      },
+      {
+         "Disease":"Influenza",
+         "Symptoms":"Fever, chills, muscle aches, cough, congestion",
+         "How to Test":"Rapid flu test, physical examination",
+         "Treatment":"Antiviral drugs, rest, fluids",
+         "Cause":"Influenza viruses",
+         "Prevention":"Annual flu vaccination, frequent handwashing, avoiding close contact with infected individuals"
+      },
+      {
+         "Disease":"Diabetes",
+         "Symptoms":"Increased thirst, frequent urination, fatigue",
+         "How to Test":"Blood sugar tests, HbA1c test",
+         "Treatment":"Insulin, oral medications, lifestyle changes",
+         "Cause":"Insufficient insulin production or insulin resistance",
+         "Prevention":"Type 1 diabetes cannot be prevented. Type 2 diabetes can be reduced through healthy eating, regular exercise, and maintaining a healthy weight"
+      },
+      {
+         "Disease":"Hypertension",
+         "Symptoms":"Often asymptomatic, headache, vision problems",
+         "How to Test":"Blood pressure measurement",
+         "Treatment":"Antihypertensive medications, lifestyle changes",
+         "Cause":"Genetic factors, unhealthy lifestyle, and other medical conditions",
+         "Prevention":"Regular exercise, healthy diet, maintaining a healthy weight, limiting alcohol, and avoiding smoking"
+      },
+      {
+         "Disease":"Asthma",
+         "Symptoms":"Wheezing, shortness of breath, chest tightness",
+         "How to Test":"Spirometry, peak flow test",
+         "Treatment":"Inhalers, corticosteroids",
+         "Cause":"Chronic inflammation of the airways, triggered by allergens, exercise, or infections",
+         "Prevention":"Avoiding known triggers, using prescribed preventive inhalers, and managing allergies"
+      },
+      {
+         "Disease":"Pneumonia",
+         "Symptoms":"Cough, fever, shortness of breath, chest pain",
+         "How to Test":"Chest X-ray, sputum test",
+         "Treatment":"Antibiotics, rest, fluids",
+         "Cause":"Bacterial, viral, or fungal infections",
+         "Prevention":"Vaccinations (e.g., pneumococcal vaccine), good hygiene, avoiding smoking"
+      },
+      {
+         "Disease":"Gastroenteritis",
+         "Symptoms":"Diarrhea, vomiting, stomach cramps, fever",
+         "How to Test":"Stool test, physical examination",
+         "Treatment":"Rehydration, rest, anti-diarrheal medications",
+         "Cause":"Viral or bacterial infections, contaminated food or water",
+         "Prevention":"Frequent handwashing, proper food handling, and drinking safe water"
+      },
+      {
+         "Disease":"Tuberculosis",
+         "Symptoms":"Persistent cough, weight loss, night sweats",
+         "How to Test":"Tuberculin skin test, chest X-ray, sputum test",
+         "Treatment":"Antibiotics (long-term treatment)",
+         "Cause":"Mycobacterium tuberculosis bacteria",
+         "Prevention":"BCG vaccination, avoiding close contact with infected individuals, and using protective measures in high-risk areas"
+      },
+      {
+         "Disease":"Allergies",
+         "Symptoms":"Sneezing, itching, runny nose, watery eyes",
+         "How to Test":"Allergy tests (skin or blood test)",
+         "Treatment":"Antihistamines, avoid allergens",
+         "Cause":"Immune system overreaction to allergens (e.g., pollen, pet dander)",
+         "Prevention":"Avoid known allergens, use air filters, and take preventive antihistamines if needed"
+      },
+      {
+         "Disease":"Strep Throat",
+         "Symptoms":"Sore throat, fever, swollen lymph nodes",
+         "How to Test":"Rapid strep test, throat culture",
+         "Treatment":"Antibiotics, rest, fluids",
+         "Cause":"Group A Streptococcus bacteria",
+         "Prevention":"Frequent handwashing, avoiding sharing utensils or food with infected individuals"
+      },
+      {
+         "Disease":"Migraine",
+         "Symptoms":"Severe headache, nausea, light sensitivity",
+         "How to Test":"Clinical evaluation, patient history",
+         "Treatment":"Pain relief medications, lifestyle changes",
+         "Cause":"Unknown, likely involving genetic and environmental factors",
+         "Prevention":"Managing triggers (e.g., stress, certain foods), regular sleep, and medications as prescribed"
+      },
+      {
+         "Disease":"UTI",
+         "Symptoms":"Frequent urination, burning sensation during urination",
+         "How to Test":"Urinalysis, urine culture",
+         "Treatment":"Antibiotics, increased water intake",
+         "Cause":"Bacterial infection, typically by Escherichia coli",
+         "Prevention":"Wipe front to back after using the restroom, urinate after intercourse, drink plenty of water"
+      },
+      {
+         "Disease":"Anemia",
+         "Symptoms":"Fatigue, pale skin, shortness of breath",
+         "How to Test":"Complete blood count (CBC)",
+         "Treatment":"Iron supplements, dietary changes",
+         "Cause":"Iron deficiency, blood loss, or other underlying conditions",
+         "Prevention":"Iron-rich diet, adequate intake of vitamin B12 and folate"
+      },
+      {
+         "Disease":"COVID-19",
+         "Symptoms":"Fever, cough, shortness of breath, loss of taste/smell",
+         "How to Test":"PCR test, rapid antigen test",
+         "Treatment":"Isolation, supportive care, antiviral drugs",
+         "Cause":"SARS-CoV-2 virus",
+         "Prevention":"Vaccination, wearing masks, frequent handwashing, social distancing"
+      },
+      {
+         "Disease":"Chronic Bronchitis",
+         "Symptoms":"Persistent cough, mucus production, shortness of breath",
+         "How to Test":"Chest X-ray, spirometry",
+         "Treatment":"Bronchodilators, steroids, lifestyle changes",
+         "Cause":"Long-term exposure to irritants (e.g., cigarette smoke)",
+         "Prevention":"Avoid smoking, reduce exposure to lung irritants, and use protective gear in polluted environments"
+      },
+      {
+         "Disease":"Osteoarthritis",
+         "Symptoms":"Joint pain, stiffness, swelling",
+         "How to Test":"Physical examination, X-rays",
+         "Treatment":"Pain relief medications, physical therapy, lifestyle changes",
+         "Cause":"Wear and tear of joint cartilage over time",
+         "Prevention":"Maintain a healthy weight, regular exercise, avoid joint injuries"
+      },
+      {
+         "Disease":"Rheumatoid Arthritis",
+         "Symptoms":"Joint pain, swelling, morning stiffness",
+         "How to Test":"Blood tests (e.g., rheumatoid factor), physical examination",
+         "Treatment":"Disease-modifying antirheumatic drugs (DMARDs), physical therapy",
+         "Cause":"Autoimmune disorder causing joint inflammation",
+         "Prevention":"No known prevention, but early diagnosis and treatment can manage symptoms"
+      },
+      {
+         "Disease":"Psoriasis",
+         "Symptoms":"Red patches of skin covered with thick, silvery scales",
+         "How to Test":"Physical examination, skin biopsy",
+         "Treatment":"Topical treatments, phototherapy, systemic medications",
+         "Cause":"Autoimmune disorder leading to rapid skin cell turnover",
+         "Prevention":"No known prevention, but avoiding triggers (e.g., stress, skin injury) can reduce flare-ups"
+      },
+      {
+         "Disease":"Celiac Disease",
+         "Symptoms":"Diarrhea, weight loss, abdominal pain",
+         "How to Test":"Blood tests (e.g., tissue transglutaminase antibodies), endoscopy",
+         "Treatment":"Gluten-free diet",
+         "Cause":"Immune reaction to gluten",
+         "Prevention":"Cannot be prevented, but avoiding gluten can prevent symptoms"
+      },
+      {
+         "Disease":"Gout",
+         "Symptoms":"Sudden, severe pain in the joints, especially the big toe",
+         "How to Test":"Joint fluid test, blood tests (e.g., uric acid levels)",
+         "Treatment":"Medications to lower uric acid, lifestyle changes",
+         "Cause":"Build-up of uric acid crystals in the joints",
+         "Prevention":"Limit intake of purine-rich foods (e.g., red meat, alcohol), maintain a healthy weight"
+      },
+      {
+         "Disease":"Hepatitis B",
+         "Symptoms":"Jaundice, abdominal pain, dark urine",
+         "How to Test":"Blood tests (e.g., HBV surface antigen)",
+         "Treatment":"Antiviral medications, monitoring",
+         "Cause":"Hepatitis B virus (HBV) infection",
+         "Prevention":"Hepatitis B vaccination, avoid sharing needles, practice safe sex"
+      },
+      {
+         "Disease":"Multiple Sclerosis",
+         "Symptoms":"Numbness, weakness, balance problems, vision issues",
+         "How to Test":"MRI, spinal tap, neurological exam",
+         "Treatment":"Disease-modifying therapies, physical therapy, symptomatic treatment",
+         "Cause":"Autoimmune attack on the central nervous system",
+         "Prevention":"No known prevention, but early treatment can help manage symptoms and slow progression"
+      },
+      {
+         "Disease":"Parkinson's Disease",
+         "Symptoms":"Tremors, muscle stiffness, slow movement",
+         "How to Test":"Neurological examination, imaging tests",
+         "Treatment":"Medications, physical therapy, surgical options",
+         "Cause":"Loss of dopamine-producing brain cells",
+         "Prevention":"No known prevention, but a healthy diet and regular exercise may reduce risk"
+      },
+      {
+         "Disease":"Lupus",
+         "Symptoms":"Fatigue, joint pain, skin rashes, fever",
+         "How to Test":"Antinuclear antibody (ANA) test, physical examination",
+         "Treatment":"Immunosuppressants, corticosteroids, lifestyle changes",
+         "Cause":"Autoimmune disorder where the immune system attacks healthy tissue",
+         "Prevention":"No known prevention, but avoiding triggers (e.g., sunlight, infections) can help manage symptoms"
+      },
+      {
+         "Disease":"Irritable Bowel Syndrome (IBS)",
+         "Symptoms":"Abdominal pain, bloating, diarrhea, constipation",
+         "How to Test":"Symptom-based diagnosis, exclusion of other conditions",
+         "Treatment":"Dietary changes, medications, stress management",
+         "Cause":"Unknown, possibly related to gut-brain interaction",
+         "Prevention":"No known prevention, but managing stress and following a balanced diet may reduce symptoms"
+      }
+   ]
+}

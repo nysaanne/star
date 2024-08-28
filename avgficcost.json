@@ -1,0 +1,56 @@
+{
+   "Average Fictitious Cost":{
+      "Service Provider A":{
+         "MD Fees":{
+            "General MD":60,
+            "Specialist MD":80
+         },
+         "Insulin Treatment":20,
+         "Hypertension Treatment":"0.50 per tablet",
+         "X-ray":200,
+         "MRI":600,
+         "CT Scan":1100,
+         "Ultrasound":250,
+         "Mammogram":100,
+         "Prostate Test":100,
+         "Endoscopy":800,
+         "Dialysis":1200,
+         "Colonoscopy":800,
+         "Cataract Surgery":null,
+         "Knee Surgery":null,
+         "Hip Surgery":null,
+         "Chemotherapy":"Cost varies",
+         "Psychiatric care":null,
+         "Heart Disease Treatment":{
+            "Bypass Surgery":null,
+            "Heart valve repair/replacement":null
+         }
+      },
+      "Service Provider B":{
+         "MD Fees":{
+            "General MD":"80-100",
+            "Specialist MD":"100-180"
+         },
+         "Insulin Treatment":40,
+         "Hypertension Treatment":"$10 per tablet",
+         "X-ray":350,
+         "MRI":800,
+         "CT Scan":1200,
+         "Ultrasound":450,
+         "Mammogram":250,
+         "Prostate Test":200,
+         "Endoscopy":1200,
+         "Dialysis":1600,
+         "Colonoscopy":1200,
+         "Cataract Surgery":"2000 plus",
+         "Knee Surgery":"2000 plus",
+         "Hip Surgery":"3000 plus",
+         "Chemotherapy":"Cost varies",
+         "Psychiatric care":null,
+         "Heart Disease Treatment":{
+            "Bypass Surgery":null,
+            "Heart valve repair/replacement":null
+         }
+      }
+   }
+}

@@ -1,0 +1,313 @@
+[
+   {
+      "Name":"Victoria Hospital",
+      "ContactInformation":"",
+      "OpeningHours":"",
+      "Address":"Castries"
+   },
+   {
+      "Name":"Tapion Hospital",
+      "ContactInformation":{
+         "Pharmacy":"+1 758 459 2400",
+         "UpstairsLab":"+1 758 459 2201",
+         "DownstairsLab":"+1 758 450 2212"
+      },
+      "OpeningHours":"10:00 am - 9:00 pm",
+      "Address":"Tapion Rd, Castries"
+   },
+   {
+      "Name":"OKEU Hospital",
+      "ContactInformation":"+1 758 458 6500",
+      "OpeningHours":"24 hours",
+      "Address":"Millenium Highway, Castries"
+   },
+   {
+      "Name":"OKEU Pharmacy",
+      "ContactInformation":[
+         "+1 758 458 6743",
+         "+1 758 458 6722"
+      ],
+      "OpeningHours":"24 hours",
+      "Address":"Millenium Highway, Castries"
+   },
+   {
+      "Name":"La Clery Wellness Centre",
+      "ContactInformation":{
+         "BackRoom":"+1 758 468 8532",
+         "DoctorsOffice":"+1 758 468 8533",
+         "Pharmacy":"+1 758 468 8534"
+      },
+      "OpeningHours":"8:00am-4:30pm",
+      "Address":"La Clery, St. Lucia"
+   },
+   {
+      "Name":"La Clery Health Centre",
+      "ContactInformation":"+1 758 468 8531",
+      "OpeningHours":"8:00am-4:30pm",
+      "Address":"La Clery, St. Lucia"
+   },
+   {
+      "Name":"Ciceron Health Centre",
+      "ContactInformation":{
+         "General":"+1 758 468 7704",
+         "NurseRoom":"+1 758 468 7704",
+         "ServerRoom":"+1 758 468 7705"
+      },
+      "OpeningHours":"8:00am-4:30pm",
+      "Address":"Ciceron, St. Lucia"
+   },
+   {
+      "Name":"Bexon Health Centre",
+      "ContactInformation":{
+         "General":"+1 758 452 1261",
+         "Nurse":"+1 758 468 7781",
+         "Doctor":"+1 758 468 7782",
+         "Triage":"+1 758 468 7783",
+         "Pharmacy":"+1 758 468 7784",
+         "Dressings":"+1 758 468 7785"
+      },
+      "OpeningHours":{
+         "General":"8:00am-4:00pm",
+         "Others":"8:00am-4:30pm"
+      },
+      "Address":"Bexon, St. Lucia"
+   },
+   {
+      "Name":"Concierge Medical Services Ltd",
+      "ContactInformation":"+1 758 486 7111",
+      "OpeningHours":"9:00am-2:30pm (Saturday: 9:00am-12:00pm)",
+      "Address":"Ground floor, Jeremie St., Walcott Building, St. Lucia"
+   },
+   {
+      "Name":"Ti Rocher (Castries) Wellness Centre",
+      "ContactInformation":{
+         "General":[
+            "+1 758 468 7746",
+            "+1 758 468 7747"
+         ],
+         "DoctorsOffice":"+1 758 468 7748"
+      },
+      "OpeningHours":"8:00am-4:00pm",
+      "Address":"Girard Cacoa, St. Lucia"
+   },
+   {
+      "Name":"Millennium Heights Medical Complex",
+      "ContactInformation":"+1 758 458 6500",
+      "OpeningHours":"24/7",
+      "Address":"Millennium Heights, Ciceron, St. Lucia"
+   },
+   {
+      "Name":"National Mental Wellness Center",
+      "ContactInformation":[
+         "+1 758 458 5959",
+         "+1 758 727 4068",
+         "+1 758 458 6501"
+      ],
+      "OpeningHours":"8:00am-4:30pm",
+      "Address":"Millennium Hwy, Castries, St. Lucia"
+   },
+   {
+      "Name":"Grace Health Centre",
+      "ContactInformation":"+1 758 454 8357",
+      "OpeningHours":"8:00am-4:30pm",
+      "Address":"Castries, St. Lucia"
+   },
+   {
+      "Name":"Bay Medical Center",
+      "ContactInformation":"+1 758 459 2640",
+      "OpeningHours":"8:00am-4:00pm",
+      "Address":"Tapion Rd, Castries, St. Lucia"
+   },
+   {
+      "Name":"Entrepot Wellness Center",
+      "ContactInformation":{
+         "Reception":[
+            "+1 758 468 7935",
+            "+1 758 468 7936"
+         ],
+         "Pharmacy":"+1 758 468 7938"
+      },
+      "OpeningHours":"8:00am-4:00pm",
+      "Address":"Indepence City, Entrepot, Castries, St. Lucia"
+   },
+   {
+      "Name":"Monchy Wellness Centre",
+      "ContactInformation":{
+         "HealthCentre":"+1 758 450 1319",
+         "DoctorsOffice":"+1 758 468 8542",
+         "Reception":"+1 758 468 8540",
+         "DressingRoom":"+1 758 468 8543",
+         "Pharmacy":"+1 758 468 8543"
+      },
+      "OpeningHours":"8:00am-4:30pm",
+      "Address":"Monchy, St. Lucia"
+   },
+   {
+      "Name":"Gros Islet Polyclinic",
+      "ContactInformation":{
+         "Reception":"+1 758 468 7630",
+         "Pharmacy":"+1 758 468 7634",
+         "DoctorsOffice":"+1 758 468 7635",
+         "Dental":"+1 758 468 7636"
+      },
+      "OpeningHours":"8:00am-4:30pm",
+      "Address":"Gros Islet, St. Lucia"
+   },
+   {
+      "Name":"Grand Riviere Wellness Centre",
+      "ContactInformation":{
+         "HealthCentre":"+1 758 450 1651",
+         "Triage":"+1 758 468 7700",
+         "ConsultationRoom2":"+1 758 468 7702"
+      },
+      "OpeningHours":"8:00am-4:30pm",
+      "Address":"Gros Islet, St. Lucia"
+   },
+   {
+      "Name":"La Guerre Health Centre",
+      "ContactInformation":{
+         "HealthCentre":"+1 758 458 9222",
+         "Doctor":"+1 758 458 7742",
+         "Dressing":"+1 758 458 7743",
+         "Nurse":"+1 758 458 7744",
+         "PNO":"+1 758 458 7745"
+      },
+      "OpeningHours":"8:00am-4:30pm",
+      "Address":"La Guerre, Plateau, St. Lucia"
+   },
+   {
+      "Name":"Rodney Bay Medical Centre",
+      "ContactInformation":[
+         "+1 758 453 6582",
+         "+1 758 452 8621"
+      ],
+      "OpeningHours":"8:00am-5:00pm (Saturday: 9:00am-1:00pm)",
+      "Address":"Rodney Bay, St. Lucia"
+   },
+   {
+      "Name":"Babonneau Health Centre",
+      "ContactInformation":{
+         "General":"+1 758 450 5858",
+         "Dental":"+1 758 468 7721",
+         "NurseR1":"+1 758 468 7722",
+         "DoctorR2":"+1 758 468 7723",
+         "Room3":"+1 758 468 7724",
+         "Pharmacy":"+1 758 468 7725"
+      },
+      "OpeningHours":{
+         "General":"8:00am-4:00pm",
+         "Others":"8:00am-4:30pm"
+      },
+      "Address":"Babonneau, St. Lucia"
+   },
+   {
+      "Name":"Anse La Raye Wellness Centre",
+      "ContactInformation":{
+         "Triage":"+1 758 468 7800",
+         "DressingRoom":"+1 758 468 7811",
+         "TreatmentRoom":"+1 758 468 7805",
+         "Pharmacy":"+1 758 468 7804",
+         "DentalRoom":"+1 758 468 7809",
+         "ConsultationRoom1":"+1 758 468 7810",
+         "ConsultationRoom2":"+1 758 468 7807",
+         "HealthWellnessCentre":"+1 758 451 4225"
+      },
+      "OpeningHours":"8:00am-4:30pm (Saturday: 8:00am-11:45am)",
+      "Address":"Anse La Raye, St. Lucia"
+   },
+   {
+      "Name":"Vanard Wellness Center",
+      "ContactInformation":{
+         "HealthCentre":"+1 758 451 4247",
+         "Reception":"+1 758 468 7734",
+         "Doctor":"+1 758 468 7732",
+         "Triage":"+1 758 468 7733",
+         "Pharmacy":"+1 758 468 7735"
+      },
+      "OpeningHours":"8:00am-4:30pm",
+      "Address":"Vanard, St. Lucia"
+   },
+   {
+      "Name":"Jacmel Wellness Centre",
+      "ContactInformation":{
+         "HealthCentre":"+1 758 451 4004",
+         "DoctorsOffice":"+1 758 468 7728",
+         "Triage":"+1 758 468 7727"
+      },
+      "OpeningHours":"8:00am-4:30pm",
+      "Address":"Jacmel, St. Lucia"
+   },
+   {
+      "Name":"La Croix Maingot Health Centre",
+      "ContactInformation":"+1 758 468 7737",
+      "OpeningHours":"8:00am-4:30pm",
+      "Address":"Soucis, St. Lucia"
+   },
+   {
+      "Name":"Micoud Health Centre",
+      "ContactInformation":"+1 758 454 4230",
+      "OpeningHours":"8:00am-4:30pm",
+      "Address":"Micoud"
+   },
+   {
+      "Name":"Mon Repos Wellness Centre",
+      "ContactInformation":"+1 758 455 3229",
+      "OpeningHours":"8:00am-5:00pm",
+      "Address":""
+   },
+   {
+      "Name":"Ti Rocher Health Centre",
+      "ContactInformation":"+1 758 452 3529",
+      "OpeningHours":"8:00am-4:30pm",
+      "Address":""
+   },
+   {
+      "Name":"Desruisseaux Health and Wellness Centre",
+      "ContactInformation":"+1 758 455 0449",
+      "OpeningHours":"8:00am-4:30pm",
+      "Address":"Desruisseaux, Micoud"
+   },
+   {
+      "Name":"Micoud Wellness Centre",
+      "ContactInformation":"+1 758 468 7957",
+      "OpeningHours":"8:00am-4:30pm",
+      "Address":"La Cour ville, Micoud"
+   },
+   {
+      "Name":"Richfond Health Centre",
+      "ContactInformation":{
+         "HealthCentre":"+1 758 453 3355",
+         "DoctorsOffice2":"+1 758 468 7926",
+         "DoctorsOffice":"+1 758 468 7927",
+         "Pharmacy":"+1 758 468 7928",
+         "Reception":"+1 758 468 7929",
+         "PHNS":"+1 758 468 7930"
+      },
+      "OpeningHours":"8:00am-4:30pm (Saturday: 8:00am-11:45am)",
+      "Address":"Richfond, Dennery"
+   },
+   {
+      "Name":"Dennery Hospital",
+      "ContactInformation":"+1 758-453-3310",
+      "OpeningHours":"6:00am-12:00am",
+      "Address":"Anse Canot, Dennery"
+   },
+   {
+      "Name":"La Ressource Health Centre",
+      "ContactInformation":"+1 758-453-3312",
+      "OpeningHours":"8:00am-4:30pm",
+      "Address":"La Resource, Dennery"
+   },
+   {
+      "Name":"Soufriere Hospital",
+      "ContactInformation":"+1 758-459-7258",
+      "OpeningHours":"24/7",
+      "Address":"Soufriere Village"
+   },
+   {
+      "Name":"St. Anthony Medical Hospital",
+      "ContactInformation":"+1 758-459-7040",
+      "OpeningHours":"8:00am-5:00pm",
+      "Address":"Soufriere Village"
+   }
+]

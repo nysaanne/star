@@ -1,0 +1,11 @@
+{
+   "CostOfMedicalProceduresAndMedicationAtHeathcenters":{
+      "HighBloodSugarMedication":"Free (ID card needed)",
+      "HighBloodPressureMedication":"Free (ID card needed)",
+      "MostServices":"Free, including doctor's visits, injections, eye checkups",
+      "AdultToothExtraction":20.00,
+      "ChildrenToothExtractionAndCleaning":"Free",
+      "DiabetesMedication":"Free",
+      "PatientsOverEightyMedicationAndLaboratoryServices":"Free"
+   }
+}
